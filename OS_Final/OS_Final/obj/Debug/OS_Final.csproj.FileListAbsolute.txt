@@ -1,0 +1,7 @@
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\bin\Debug\OS_Final.exe.config
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\bin\Debug\OS_Final.exe
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\bin\Debug\OS_Final.pdb
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\obj\Debug\OS_Final.csprojAssemblyReference.cache
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\obj\Debug\OS_Final.csproj.CoreCompileInputs.cache
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\obj\Debug\OS_Final.exe
+C:\Users\DELL 2020\source\repos\OS_Final\OS_Final\obj\Debug\OS_Final.pdb
